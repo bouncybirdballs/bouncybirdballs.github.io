@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Rollaball",
+"dataUrl": "BouncyBirdBalls.data.unityweb",
+"asmCodeUrl": "BouncyBirdBalls.asm.code.unityweb",
+"asmMemoryUrl": "BouncyBirdBalls.asm.memory.unityweb",
+"asmFrameworkUrl": "BouncyBirdBalls.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
